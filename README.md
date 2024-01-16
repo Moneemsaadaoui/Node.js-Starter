@@ -16,7 +16,7 @@ Make sure you have Node.js and npm installed on your machine. If not, you can do
 1. Clone this repository to your local machine:
 
    ```
-   git clone https://github.com/your-username/nodejs-starter.git
+   git clone https://github.com/Moneemsaadaoui/Node.js-Starter.git
    ```
 
 2. Navigate to the project directory:
