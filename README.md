@@ -22,7 +22,7 @@ Make sure you have Node.js and npm installed on your machine. If not, you can do
 2. Navigate to the project directory:
    
   ```
-  cd nodejs-starter
+  cd Node.js-Starter
 ```
 
 3.Install the project dependencies:
